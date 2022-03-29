@@ -4,6 +4,7 @@
   "description": "",
   "main": "notes.js",
   "scripts": {
+    "test": "",
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
