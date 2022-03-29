@@ -1,9 +1,9 @@
-// {
-// 	"folders": [
-// 		{
-// 			"name": "Note-Taker",
-// 			"path": "."
-// 		}
-// 	],
-// 	"settings": {}
-// }
+{
+	"folders": [
+		{
+			"name": "Note-Taker",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
